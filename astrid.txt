@@ -1,1 +1,3 @@
-https://astrid-live.azurewebsites.net
+{
+"url":"https://astrid-live.azurewebsites.net"
+}
